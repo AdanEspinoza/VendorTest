@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AdanTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="instructions">Please open the navigation drawer \nby swiping the screen
+        from the left to the right\n and choose the test you want to open</string>
+    <string name="title_activity_palindrome">PalindromeActivity</string>
+    <string name="Text">Status: -</string>
+    <string name="on">Turn On</string>
+    <string name="off">Turn Off</string>
+    <string name="List">List paired Devices</string>
+    <string name="Find">Search new Devices / Cancel</string>
+</resources>
